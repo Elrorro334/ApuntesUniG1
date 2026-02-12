@@ -93,6 +93,4 @@ mongoexport --db backupidgs --collection alumnos --query "{\"carrera\":\"dn\"}" 
 
 ```
 
-### ¿Te gustaría que te genere también un archivo `.txt` o prefieres dejarlo solo en Markdown?
-
 ```
